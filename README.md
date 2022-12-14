@@ -1,6 +1,6 @@
 ## [Causal Reasoning Meets Visual Representation Learning: A Prospective Study](https://link.springer.com/article/10.1007/s11633-022-1362-z)
-Machine Intelligence Research (MIR) 2022
-A Review paper for causal reasoning and visual representation learning.    
+Machine Intelligence Research (MIR) 2022   
+A Review paper for causal reasoning and visual representation learning    
 
 <a href="https://orcid.org/0000-0002-9423-9252" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-9423-9252</a>
 
