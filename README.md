@@ -13,23 +13,23 @@ Visual representation learning is ubiquitous in various real-world applications,
 Figure 1:  Overview of the structure of this paper, including the discussion of related methods, datasets, challenges, and the relations among causal reasoning, visual representation learning, and their integration. 
 
 ## Media Report
-[WeChat Official Account] (https://mp.weixin.qq.com/s/-OlJ44DWE6nuX_OVyykURw)
-[Tencent News]  (https://view.inews.qq.com/a/20221214A04HLV00)
-[BAAI Newsletter]  (https://hub.baai.ac.cn/view/22520)
-[Sina Weibo]  (https://m.weibo.cn/3127546767/4846600603830090)
-[MIR Official Website]  (https://www.mi-research.net/)
-[Twitter]  (https://twitter.com/MIR_Journal/status/1602935511903260674)
-[Facebook]  (https://www.facebook.com/profile.php?id=100071154460921)
-[ScienceNet] (https://blog.sciencenet.cn/home.php?mod=space&uid=749317&do=blog&id=1367867)
+[WeChat Official Account](https://mp.weixin.qq.com/s/-OlJ44DWE6nuX_OVyykURw)  
+[Tencent News] (https://view.inews.qq.com/a/20221214A04HLV00)    
+[BAAI Newsletter] (https://hub.baai.ac.cn/view/22520)  
+[Sina Weibo] (https://m.weibo.cn/3127546767/4846600603830090)  
+[MIR Official Website] (https://www.mi-research.net/)  
+[Twitter] (https://twitter.com/MIR_Journal/status/1602935511903260674)  
+[Facebook] (https://www.facebook.com/profile.php?id=100071154460921)  
+[ScienceNet](https://blog.sciencenet.cn/home.php?mod=space&uid=749317&do=blog&id=1367867)  
 
 ```
-                                @article{liu2022causal,
-                                  title={Causal Reasoning Meets Visual Representation Learning: A Prospective Study},
-                                  author={Liu, Yang and Wei, Yu-Shen and Yan, Hong and Li, Guan-Bin and Lin, Liang},
-                                  journal={Machine Intelligence Research},
-                                  pages={1--27},
-                                  year={2022},
-                                  publisher={Springer}
-                                }
+   @article{liu2022causal,
+            title={Causal Reasoning Meets Visual Representation Learning: A Prospective Study},
+            author={Liu, Yang and Wei, Yu-Shen and Yan, Hong and Li, Guan-Bin and Lin, Liang},
+            journal={Machine Intelligence Research},
+            pages={1--27},
+            year={2022},
+            publisher={Springer}
+            }
 ``` 
 If you have any question about this paper, feel free to reach me (liuy856@mail.sysu.edu.cn) 
