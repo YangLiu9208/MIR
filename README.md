@@ -14,12 +14,12 @@ Figure 1:  Overview of the structure of this paper, including the discussion of 
 
 ## Media Report
 [WeChat Official Account](https://mp.weixin.qq.com/s/-OlJ44DWE6nuX_OVyykURw)  
-[Tencent News] (https://view.inews.qq.com/a/20221214A04HLV00)    
-[BAAI Newsletter] (https://hub.baai.ac.cn/view/22520)  
-[Sina Weibo] (https://m.weibo.cn/3127546767/4846600603830090)  
-[MIR Official Website] (https://www.mi-research.net/)  
-[Twitter] (https://twitter.com/MIR_Journal/status/1602935511903260674)  
-[Facebook] (https://www.facebook.com/profile.php?id=100071154460921)  
+[Tencent News](https://view.inews.qq.com/a/20221214A04HLV00)    
+[BAAI Newsletter](https://hub.baai.ac.cn/view/22520)  
+[Sina Weibo](https://m.weibo.cn/3127546767/4846600603830090)  
+[MIR Official Website](https://www.mi-research.net/)  
+[Twitter](https://twitter.com/MIR_Journal/status/1602935511903260674)  
+[Facebook](https://www.facebook.com/profile.php?id=100071154460921)  
 [ScienceNet](https://blog.sciencenet.cn/home.php?mod=space&uid=749317&do=blog&id=1367867)  
 
 ```
